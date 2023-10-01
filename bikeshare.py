@@ -7,6 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# DAY_TO_INDEX dictionary maps the names of days of the week to their corresponding numerical indices.
 DAY_TO_INDEX = {
     "monday": 0,
     "tuesday": 1,
@@ -17,6 +18,7 @@ DAY_TO_INDEX = {
     "sunday": 6
 }
 
+# MONTH_TO_INDEX dictionary maps the names of months to their corresponding numerical indices.
 MONTH_TO_INDEX = {
     'january': 1, 
     'february': 2, 
