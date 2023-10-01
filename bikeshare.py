@@ -18,6 +18,7 @@ DAY_TO_INDEX = {
     "sunday": 6
 }
 
+# MONTH_TO_INDEX dictionary maps the names of months to their corresponding numerical indices.
 MONTH_TO_INDEX = {
     'january': 1, 
     'february': 2, 
