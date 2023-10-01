@@ -59,3 +59,4 @@ At the end, the user can choose to restart the program or exit.
 
 * [pandas documentation](http://pandas.pydata.org/pandas-docs/stable/) - The pandas documentation was highly beneficial in understanding the implementation of pandas methods in this project.
 * [Udacity](https://udacity.com) - The Data Analyst Nanodegree program and instructors at Udacity were instrumental during the pursuit of this project.
+* [Tutorialspoint](https://www.tutorialspoint.com/python_data_science/index.htm) - The tutorialspoint data science documentation was highly beneficial in understanding the implementation of pandas methods in this project.
